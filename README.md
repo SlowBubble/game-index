@@ -1,1 +1,10 @@
-# game-index
+# Games
+
+- [Q&A](https://slowbubble.github.io/q-n-a/?shuffle_stories=1): thought-provoking questions and answers for kids to ask and answer
+- [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
+- [Word By Word](https://slowbubble.github.io/word-by-word/?Jacob=Bluey&Emma=Bingo&Mommy=Chilli&Daddy=Bandit&Keanu=Stripe&Sophia=Brandy&Ellie=Honey&Luke=Rusty&Grandma=Nana&read_phrase=1&shuffle_stories=1): A story reader with a bunch of 4-page short stories.
+- [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
+- [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
+- [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
+- [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
+- [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
