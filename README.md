@@ -8,3 +8,4 @@
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
 - [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
+- [Piano Typing](https://slowbubble.github.io/piano/): A free-form game to play the piano on the computer keyboard.
