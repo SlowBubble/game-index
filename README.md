@@ -11,4 +11,5 @@
   - [Variant 3: people](https://slowbubble.github.io/word-kitchen/?game_level=3&robert=1&john=1&roger=1&zebra=1&excavator&dog=1&rabbit=1&squirrel=1)
 - [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
-- [Piano Typing](https://slowbubble.github.io/piano/): A free-form game to play the piano on the computer keyboard.
+- [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
+- [Crooked Piano](https://slowbubble.github.io/piano/): A free-form game to play the piano on the computer keyboard.
