@@ -14,3 +14,4 @@
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
 - [Crooked Piano](https://slowbubble.github.io/piano/): A free-form game to play the piano on the computer keyboard.
+- [Drums](https://slowbubble.github.io/drums/): A free-form game to play the drums on the computer keyboard.
