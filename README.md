@@ -10,7 +10,7 @@
   - [Variant 1: things](https://slowbubble.github.io/word-kitchen/?game_level=3&&car=1&bus=1&van=1&truck=1&water=1&eggs=1&meat=1&rice=1)
   - [Variant 2: places](https://slowbubble.github.io/word-kitchen/?game_level=3&brunch=1&lunch=1&snack=1&dinner=1&school=1&home=1&park=1&library=1)
   - [Variant 3: people](https://slowbubble.github.io/word-kitchen/?game_level=3&robert=1&john=1&roger=1&zebra=1&excavator&dog=1&rabbit=1&squirrel=1)
-- [Spelling Bumblebee](https://slowbubble.github.io/word-kitchen/?game_level=4)
+- [Spelling Bumblebee](https://slowbubble.github.io/word-kitchen/?game_level=4): like Spelling Bee, but you can enter the wrong letter without losing the game.
 - [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
