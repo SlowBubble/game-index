@@ -16,6 +16,7 @@
   - [Variant AR](https://slowbubble.github.io/word-kitchen/?game_level=4&car=1&far=1&jar=1&bar=1)
   - [Variant E](https://slowbubble.github.io/word-kitchen/?game_level=4&he=1&me=1&she=1&bee=1&pee=1&see=1)
   - [Variant AT](https://slowbubble.github.io/word-kitchen/?game_level=4&pat=1&rat=1&cat=1&mat=1&sat=1&hat=1)
+  - [Variant AP](https://slowbubble.github.io/word-kitchen/?game_level=4&pat=1&map=1&tap=1&mat=1&sat=1&hat=1)
 - [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
