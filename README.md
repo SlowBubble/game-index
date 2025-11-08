@@ -7,7 +7,6 @@
 - [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
 - [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
-  - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=4&pee=1&poo=1&baby=1&mommy=1)
   - [Variant places](https://slowbubble.github.io/word-kitchen/?game_level=3&brunch=1&lunch=1&snack=1&dinner=1&school=1&home=1&park=1&library=1)
   - [Variant people](https://slowbubble.github.io/word-kitchen/?game_level=3&robert=1&john=1&roger=1&zebra=1&excavator&dog=1&rabbit=1&squirrel=1)
   - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=3&pee=1&poo=1&baby=1&mommy=1)
