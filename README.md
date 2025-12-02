@@ -12,11 +12,13 @@
   - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=3&pee=1&poo=1&baby=1&mommy=1&kid=1&papa=1)
   - [Variant 3](https://slowbubble.github.io/word-kitchen/?game_level=3&game=1&time=1&is=1&over=1&good=1&bye=1)
   - [Variant 4](https://slowbubble.github.io/word-kitchen/?game_level=3&ride=1&the=1&bus=1&go=1&to=1&school=1)
+  - [Variant 5](https://slowbubble.github.io/word-kitchen/?game_level=3&happy=1&thanks=1&giving=1&and=1&black=1&friday=1)
 - [Bumbling Bee](https://slowbubble.github.io/word-kitchen/?game_level=4): like Spelling Bee, but you can enter the wrong letter without losing the game.
   - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=4&over=1&bus=1&van=1&mommy=1&daddy=1&car=1)
   - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=4&pee=1&poo=1&baby=1&mommy=1&kid=1&papa=1)
   - [Variant 3](https://slowbubble.github.io/word-kitchen/?game_level=4&game=1&time=1&is=1&over=1&good=1&bye=1)
   - [Variant 4](https://slowbubble.github.io/word-kitchen/?game_level=4&ride=1&the=1&bus=1&go=1&to=1&school=1)
+  - [Variant 5](https://slowbubble.github.io/word-kitchen/?game_level=4&happy=1&thanks=1&giving=1&and=1&black=1&friday=1)
 - [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
