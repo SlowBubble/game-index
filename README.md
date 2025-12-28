@@ -2,13 +2,16 @@
 
 - [Q&A](https://slowbubble.github.io/q-n-a/?shuffle_stories=1): A bunch of thought-provoking questions and answers for kids to ask and answer
 - [EQ&A](https://slowbubble.github.io/eq-n-a/?shuffle_stories=1): A bunch of emotion-related questions and answers for kids to ask and answer
-- [Finger Counting](https://slowbubble.github.io/finger-counting/): A game to practice adding fingers.
-- [The Age is Right](https://slowbubble.github.io/math-game/): A game to practice adding numbers.
-- [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
 - [Word By Word](https://slowbubble.github.io/word-by-word/?Jacob=Bluey&Emma=Bingo&Mommy=Chilli&Daddy=Bandit&Keanu=Stripe&Sophia=Brandy&Ellie=Honey&Luke=Rusty&Grandma=Nana&read_phrase=1&shuffle_stories=1): A story reader with a bunch of 4-page short stories.
   - [Variant 1](https://slowbubble.github.io/word-by-word/?new_stories=1&read_phrase=1&Jacob=Spencer&Emma=Valerie&shuffle_stories=1)
 - [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
 - [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
+- [Finger Counting](https://slowbubble.github.io/finger-counting/): A game to practice adding fingers.
+- [The Age is Right](https://slowbubble.github.io/math-game/): A game to practice adding numbers.
+- [Connect the Star](https://slowbubble.github.io/connect-the-star/?vertices=17&jump=7&solution=true): Teach kids how to draw stars
+  - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
+  - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
+- [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
   - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=3&over=1&bus=1&van=1&mommy=1&daddy=1&car=1)
   - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=3&pee=1&poo=1&baby=1&mommy=1&kid=1&papa=1)
