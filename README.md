@@ -6,6 +6,7 @@
 - [Connect the Star](https://slowbubble.github.io/connect-the-star/?vertices=17&jump=7&solution=true): Teach kids how to draw stars
   - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
   - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
+- [Diagram Narrator](https://slowbubble.github.io/diagram-narrator/): Expressing ideas through system diagrams.
 
 ## Typing
 - [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
