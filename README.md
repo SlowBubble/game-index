@@ -1,14 +1,5 @@
 # Games
 
-## Listening
-- [Q&A](https://slowbubble.github.io/q-n-a/?shuffle_stories=1): A bunch of thought-provoking questions and answers for kids to ask and answer
-- [EQ&A](https://slowbubble.github.io/eq-n-a/?shuffle_stories=1): A bunch of emotion-related questions and answers for kids to ask and answer
-- [Word By Word](https://slowbubble.github.io/word-by-word/?Jacob=Bluey&Emma=Bingo&Mommy=Chilli&Daddy=Bandit&Keanu=Stripe&Sophia=Brandy&Ellie=Honey&Luke=Rusty&Grandma=Nana&read_phrase=1&shuffle_stories=1): A story reader with a bunch of 4-page short stories.
-  - [Variant 1](https://slowbubble.github.io/word-by-word/?new_stories=1&read_phrase=1&Jacob=Spencer&Emma=Valerie&shuffle_stories=1)
-- [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
-- [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
-- [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
-
 ## Math
 - [Finger Counting](https://slowbubble.github.io/finger-counting/): A game to practice adding fingers.
 - [The Age is Right](https://slowbubble.github.io/math-game/): A game to practice adding numbers.
@@ -42,6 +33,15 @@
 - [Beat Typing](https://slowbubble.github.io/beat-typing/): A game to teach drum beats using 1-2-3 with the computer keyboard.
 - [Crooked Piano](https://slowbubble.github.io/piano/): A free-form game to play the piano on the computer keyboard.
 - [Drums](https://slowbubble.github.io/drums/): A free-form game to play the drums on the computer keyboard.
+
+## Listening
+- [Q&A](https://slowbubble.github.io/q-n-a/?shuffle_stories=1): A bunch of thought-provoking questions and answers for kids to ask and answer
+- [EQ&A](https://slowbubble.github.io/eq-n-a/?shuffle_stories=1): A bunch of emotion-related questions and answers for kids to ask and answer
+- [Word By Word](https://slowbubble.github.io/word-by-word/?Jacob=Bluey&Emma=Bingo&Mommy=Chilli&Daddy=Bandit&Keanu=Stripe&Sophia=Brandy&Ellie=Honey&Luke=Rusty&Grandma=Nana&read_phrase=1&shuffle_stories=1): A story reader with a bunch of 4-page short stories.
+  - [Variant 1](https://slowbubble.github.io/word-by-word/?new_stories=1&read_phrase=1&Jacob=Spencer&Emma=Valerie&shuffle_stories=1)
+- [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
+- [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
+- [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 
 # Other Utilities
 - [MP3 Player](https://slowbubble.github.io/mp3-player/)
