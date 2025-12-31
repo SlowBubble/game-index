@@ -1,16 +1,22 @@
 # Games
 
+## Listening
 - [Q&A](https://slowbubble.github.io/q-n-a/?shuffle_stories=1): A bunch of thought-provoking questions and answers for kids to ask and answer
 - [EQ&A](https://slowbubble.github.io/eq-n-a/?shuffle_stories=1): A bunch of emotion-related questions and answers for kids to ask and answer
 - [Word By Word](https://slowbubble.github.io/word-by-word/?Jacob=Bluey&Emma=Bingo&Mommy=Chilli&Daddy=Bandit&Keanu=Stripe&Sophia=Brandy&Ellie=Honey&Luke=Rusty&Grandma=Nana&read_phrase=1&shuffle_stories=1): A story reader with a bunch of 4-page short stories.
   - [Variant 1](https://slowbubble.github.io/word-by-word/?new_stories=1&read_phrase=1&Jacob=Spencer&Emma=Valerie&shuffle_stories=1)
 - [Cantonese Word By Word](https://slowbubble.github.io/chinese-word-by-word/?use_hk=1): The Cantonese version of Word By Word
 - [Madarin Word By Word](https://slowbubble.github.io/chinese-word-by-word/): The Mandarin version of Word By Word
+- [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
+
+## Math
 - [Finger Counting](https://slowbubble.github.io/finger-counting/): A game to practice adding fingers.
 - [The Age is Right](https://slowbubble.github.io/math-game/): A game to practice adding numbers.
 - [Connect the Star](https://slowbubble.github.io/connect-the-star/?vertices=17&jump=7&solution=true): Teach kids how to draw stars
   - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
   - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
+
+## Typing
 - [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
   - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=3&over=1&bus=1&van=1&mommy=1&daddy=1&car=1)
@@ -26,8 +32,10 @@
   - [Variant 4](https://slowbubble.github.io/word-kitchen/?game_level=4&ride=1&the=1&bus=1&go=1&to=1&school=1)
   - [Variant 5](https://slowbubble.github.io/word-kitchen/?game_level=4&happy=1&thanks=1&giving=1&and=1&black=1&friday=1)
   - [Variant 6](https://slowbubble.github.io/word-kitchen/?game_level=4&merry=1&christmas=1&and=1&happy=1&new=1&year=1)
-- [Keyboarding 4 Kids](https://slowbubble.github.io/k4k/): A game to help kids learn food-related words.
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
+- [Canto Translate](https://slowbubble.github.io/canto-translate): Translate from English to Canto
+
+## Music
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
 - [Chord Typing](https://slowbubble.github.io/chord-typing/): A game to teach chords/harmony using 1-2-3 with the computer keyboard.
 - [Beat Typing](https://slowbubble.github.io/beat-typing/): A game to teach drum beats using 1-2-3 with the computer keyboard.
