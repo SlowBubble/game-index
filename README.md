@@ -8,6 +8,7 @@
   - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
 - [Diagram Narrator](https://slowbubble.github.io/diagram-narrator/): Expressing ideas through system diagrams.
   - [Canto version](https://slowbubble.github.io/diagram-narrator/?canto=1)
+- [Type-n-Listen to Cantonese numbers](https://slowbubble.github.io/type-n-listen/canto.html)
 
 ## Typing
 - [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
