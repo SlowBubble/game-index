@@ -12,7 +12,8 @@
   - [Canto Number reader](https://slowbubble.github.io/type-n-listen/canto.html)
 
 ## Typing
-- [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html): A game to help kids practice spelling longer words
+- [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html?randomize=true): A game to help kids practice spelling longer words
+  - [Variant 1](https://slowbubble.github.io/word-kitchen/chunk.html?alternate=1&randomize=true)
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
   - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=3&over=1&bus=1&van=1&mommy=1&daddy=1&car=1)
   - [Variant 2](https://slowbubble.github.io/word-kitchen/?game_level=3&pee=1&poo=1&baby=1&mommy=1&kid=1&papa=1)
