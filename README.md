@@ -13,6 +13,7 @@
   - [Canto Number reader](https://slowbubble.github.io/type-n-listen/canto.html)
 
 ## Typing
+- [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 - [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html?randomize=true): A game to help kids practice spelling longer words
   - [Variant 1](https://slowbubble.github.io/word-kitchen/chunk.html?alternate=1&randomize=true)
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
@@ -31,7 +32,6 @@
   - [Variant 5](https://slowbubble.github.io/word-kitchen/?game_level=4&happy=1&thanks=1&giving=1&and=1&black=1&friday=1)
   - [Variant 6](https://slowbubble.github.io/word-kitchen/?game_level=4&merry=1&christmas=1&and=1&happy=1&new=1&year=1)
   - [Variant 7](https://slowbubble.github.io/word-kitchen/?game_level=4&january=1&february=1&march=1&april=1&may=1&june=1)
-- [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
 
 ## Music
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
