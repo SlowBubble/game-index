@@ -34,7 +34,7 @@
   - [Variant 6](https://slowbubble.github.io/word-kitchen/?game_level=4&merry=1&christmas=1&and=1&happy=1&new=1&year=1)
   - [Variant 7](https://slowbubble.github.io/word-kitchen/?game_level=4&january=1&february=1&march=1&april=1&may=1&june=1)
 - [Sentence kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3&sentence=1)
-  - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=3&sentence=1&I like to walk=1&I like to talk=1&I like to play=1&I like to learn=1)
+  - [Variant 1](https://slowbubble.github.io/word-kitchen/?game_level=3&sentence=1&I%20like%20to%20walk=1&I%20like%20to%20talk=1&I%20like%20to%20play=1&I%20like%20to%20learn=1)
 
 ## Music
 - [Piano Typing](https://slowbubble.github.io/piano-typing/): A game to teach songs using 1-2-3 with the computer keyboard.
