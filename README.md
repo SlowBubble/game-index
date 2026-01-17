@@ -7,8 +7,8 @@
   - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
   - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
 - [What grade are you in](https://slowbubble.github.io/what-grade-are-you-in/?maxAge=11)
-- [Diagram Narrator](https://slowbubble.github.io/diagram-narrator/): Expressing ideas through system diagrams.
-  - [Canto version](https://slowbubble.github.io/diagram-narrator/?canto=1)
+- [Diagram Narrator](https://diagram-flow.web.app/): Expressing ideas through system diagrams.
+  - [Canto version](https://diagram-flow.web.app/?canto=1)
 - [Number reader](https://slowbubble.github.io/type-n-listen/english.html)
   - [Canto Number reader](https://slowbubble.github.io/type-n-listen/canto.html)
 
