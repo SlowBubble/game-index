@@ -11,7 +11,7 @@
   - [Canto version](https://diagram-flow.web.app/?canto=1)
 - [Number reader](https://slowbubble.github.io/type-n-listen/english.html)
   - [Canto Number reader](https://slowbubble.github.io/type-n-listen/canto.html)
-- [Black Jack](https://slowbubble.github.io/black-jack/): Learn Black Jack and Card Counting
+- [Black Jack](https://slowbubble.github.io/black-jack/?numbers_only=1&pause_dealer=1): Learn Black Jack and Card Counting
 
 ## Typing
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
