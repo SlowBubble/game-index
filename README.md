@@ -17,6 +17,7 @@
 ## Typing
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
   - [Microloud Word](https://slowbubble.github.io/microloud-word): Just read the words/sentences instead of individual letters.
+  - [Daily Diary](https://slowbubble.github.io/daily-diary): Save diary entries in the browser locally
 - [Spelling Surgeon](https://slowbubble.github.io/word-kitchen/chunk.html?randomize=true): A game to help kids practice spelling longer words
   - [Variant 1](https://slowbubble.github.io/word-kitchen/chunk.html?alternate=1&randomize=true)
 - [Word Kitchen](https://slowbubble.github.io/word-kitchen/?game_level=3): A game to help kids practice typing
