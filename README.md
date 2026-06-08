@@ -6,6 +6,7 @@
 - [Connect the Star](https://slowbubble.github.io/connect-the-star/?vertices=17&jump=7&solution=true): Teach kids how to draw stars
   - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
   - [Printable solution](https://slowbubble.github.io/connect-the-star/print.html?solution=1)
+- [Connect the Hyperbolas](https://slowbubble.github.io/hyperbola/)
 - [What grade are you in](https://slowbubble.github.io/what-grade-are-you-in/?maxAge=11)
 - [Diagram Narrator](https://diagram-flow.web.app/): Expressing ideas through system diagrams.
   - [Canto version](https://diagram-flow.web.app/?canto=1)
