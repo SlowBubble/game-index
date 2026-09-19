@@ -2,6 +2,7 @@
 
 ## Math
 - [Finger Counting](https://slowbubble.github.io/finger-counting/): A game to practice adding fingers.
+- [What is the Change?](https://slowbubble.github.io/what-is-the-change/): A game to practice subtracting pennies.
 - [The Age is Right](https://slowbubble.github.io/math-game/): A game to practice adding numbers.
 - [Connect the Star](https://slowbubble.github.io/connect-the-star/?vertices=17&jump=7&solution=true): Teach kids how to draw stars
   - [Printable version](https://slowbubble.github.io/connect-the-star/print.html)
