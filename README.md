@@ -15,6 +15,7 @@
   - [Canto Number reader](https://slowbubble.github.io/type-n-listen/canto.html)
 - [Black Jack](https://slowbubble.github.io/black-jack/?numbers_only=1&pause_dealer=1): Learn Black Jack and Card Counting
   - [Mean Queen](https://slowbubble.github.io/black-jack/mean-queen/): A simpler version of Black Jack that goes up to 10 instead of 21.
+- [Portfolio tracker](https://slowbubble.github.io/foliophile/)
 
 ## Typing
 - [Type & Listen](https://slowbubble.github.io/type-n-listen/): A free-form game to help kids hear what they are typing.
